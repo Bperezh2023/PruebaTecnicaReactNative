@@ -1,0 +1,41 @@
+{
+    "invoices": [
+      {
+        "id": 1,
+        "customerName": "Abner Higueros",
+        "layers": [
+          {
+            "layerType": "Inferior",
+            "material": "Cuero"
+          },
+          {
+            "layerType": "Centro",
+            "material": "Esponja"
+          },
+          {
+            "layerType": "Superior",
+            "material": "Cuero"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "customerName": "Bryan Pérez",
+        "layers": [
+          {
+            "layerType": "Inferior",
+            "material": "Cuero"
+          },
+          {
+            "layerType": "Centro",
+            "material": "Esponja"
+          },
+          {
+            "layerType": "Superior",
+            "material": "Cuero"
+          }
+        ]
+      }
+    ]
+  }
+  
